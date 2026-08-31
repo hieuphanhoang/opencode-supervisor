@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opencode Supervisor"
+  short_description: "Delegate a task to an opencode worker model and verify the result"
+  default_prompt: "Use $opencode-supervisor to delegate this task to a model running under opencode, then verify and report the result."
